@@ -182,7 +182,7 @@ ul li a:hover {
   border-radius: 100%;
 }
 
-@media (max-width:1200px) {
+@media (max-width:600px) {
   nav .checkbox {
     display: block;
   }
